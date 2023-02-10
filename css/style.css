@@ -54,11 +54,13 @@ body {
 #prevPhoto {
 	height: 42px;
 	width: 42px;
+	text-align: left;
 }
 
 #nextPhoto {
 	height: 42px;
 	width: 42px;
+	text-align: right;
 }
 
 .details p {

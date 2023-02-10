@@ -1,0 +1,64 @@
+{
+    "images": [
+        {
+            "imgPath": "newImg/bench.jpeg",
+            "imgLocation": "Marlboro, New Jersey",
+            "description": "b e n c h",
+            "date": "04/28/2021"
+        },
+        {
+            "imgPath": "newImg/evan.jpeg",
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Evan walking on the beach",
+            "date": "04/21/2022"
+        },
+        {
+            "imgPath": "newImg/heli1.jpeg",
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Taken from a helicopter",
+            "date": "04/22/2022"
+        },
+        {
+            "imgPath": "newImg/heli2.jpeg",
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Taken from a helicopter",
+            "date": "04/22/2022"
+        },
+    {
+            "imgPath": "newImg/heli3.jpeg",
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Taken from a helicopter",
+            "date": "04/22/2022"
+        },
+        {
+            "imgPath": "newImg/maryland.jpeg",
+            "imgLocation": "Glen Burnie, Maryland",
+            "description": "This is the 1st image in the set",
+            "date": "07/03/2022"
+        },
+        {
+            "imgPath": "newImg/plane.jpeg",
+            "imgLocation": "Somewhere above the Pacific Ocean",
+            "description": "Plane ride back from Hawaii to New Jersey.",
+            "date": "04/22/2022"
+        },
+        {
+            "imgPath": "newImg/postcard.jpeg",
+            "imgLocation": "Honolulu, Hawaii",
+            "description": "This looks like a postcard but it is not",
+            "date": "04/17/2022"
+        },
+        {
+            "imgPath": "newImg/stJohn.jpeg",
+            "imgLocation": "St. John, US Virgin Island",
+            "description": "Beach in St. John",
+            "date": "09/03/2022"
+        },
+        {
+            "imgPath": "newImg/washingtonMon.jpeg",
+            "imgLocation": "First image (index 0)",
+            "description": "Spiderman was here",
+            "date": "06/28/2022"
+        }
+  ]
+}

@@ -47,13 +47,38 @@ function swapPhoto() {
 	loc[0].innerHTML="Location: " + mImages[mCurrentIndex].location;
 
 	var dec=document.getElementsByClassName('description');
-	dec[0].innerHTML="description: " + mImages[mCurrentIndex].description;
+	dec[0].innerHTML="Description: " + mImages[mCurrentIndex].description;
 
 	var dt=document.getElementsByClassName('date');
 	dt[0].innerHTML="Date: " + mImages[mCurrentIndex].date;
 
 	mLastFrameTime=0;
 	mCurrentIndex+=1;
+}
+
+//previous swap photo
+function prevSwapPhoto() {
+	//Add code here to access the #slideShow element.
+	//Access the img element and replace its source
+	
+	if (mCurrentIndex>=mImages.length){
+		mCurrentIndex=0;
+	}
+	if (mCurrentIndex<0){
+		mCurrentIndex=mImages.length-1;
+	}
+	document.getElementById('photo').src=mImages[mCurrentIndex].img;
+	var loc=document.getElementsByClassName('location');
+	loc[0].innerHTML="Location: " + mImages[mCurrentIndex].location;
+
+	var dec=document.getElementsByClassName('description');
+	dec[0].innerHTML="Description: " + mImages[mCurrentIndex].description;
+
+	var dt=document.getElementsByClassName('date');
+	dt[0].innerHTML="Date: " + mImages[mCurrentIndex].date;
+
+	mLastFrameTime=0;
+	mCurrentIndex-=1;
 }
 
 // Counter for the mImages array
@@ -70,8 +95,9 @@ var mJSON;
 
 // URL for the JSON to load by default
 // Some options for you are: images.json, images.short.json; you will need to create your own extra.json later
+var mUrl = 'newImages.json';
 //var mUrl = 'images.json';
-var mUrl = "https://api.npoint.io/fd92faeca7696b78bac6";
+//var mUrl = "https://api.npoint.io/fd92faeca7696b78bac6";
 
 //PART 2
 //constructor
@@ -110,46 +136,12 @@ function makeGalleryImageOnloadCallback(galleryImage) {
 $(document).ready( function() {
 	//next photo
 	$('#nextPhoto').click(function() {
-   if (mCurrentIndex>=mImages.length){
-		mCurrentIndex=0;
-	}
-	if (mCurrentIndex<0){
-		mCurrentIndex=mImages.length-1;
-	}
-	document.getElementById('photo').src=mImages[mCurrentIndex].img;
-	var loc=document.getElementsByClassName('location');
-	loc[0].innerHTML="Location: " + mImages[mCurrentIndex].location;
-
-	var dec=document.getElementsByClassName('description');
-	dec[0].innerHTML="description: " + mImages[mCurrentIndex].description;
-
-	var dt=document.getElementsByClassName('date');
-	dt[0].innerHTML="Date: " + mImages[mCurrentIndex].date;
-
-	mLastFrameTime=0;
-	mCurrentIndex+=1;
+   swapPhoto();
  }); 
 
  //previous photo
  $('#prevPhoto').click(function() {
-   if (mCurrentIndex>=mImages.length){
-		mCurrentIndex=0;
-	}
-	if (mCurrentIndex<0){
-		mCurrentIndex=mImages.length-1;
-	}
-	document.getElementById('photo').src=mImages[mCurrentIndex].img;
-	var loc=document.getElementsByClassName('location');
-	loc[0].innerHTML="Location: " + mImages[mCurrentIndex].location;
-
-	var dec=document.getElementsByClassName('description');
-	dec[0].innerHTML="description: " + mImages[mCurrentIndex].description;
-
-	var dt=document.getElementsByClassName('date');
-	dt[0].innerHTML="Date: " + mImages[mCurrentIndex].date;
-
-	mLastFrameTime=0;
-	mCurrentIndex-=1;
+   prevSwapPhoto();
  }); 
 
  //hide moreIndicator
@@ -168,6 +160,12 @@ $(document).ready( function() {
 	// This initially hides the photos' metadata information
 	// 
 	fetchJSON();
+
+	$("#nextPhoto").position({
+  		my: "right center",
+  		at: "right",
+  		of: "#nav"
+	});
 });
 
 window.addEventListener('load', function() {
