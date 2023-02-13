@@ -1,64 +1,124 @@
 {
     "images": [
         {
-            "imgPath": "newImg/bench.jpeg",
-            "imgLocation": "Marlboro, New Jersey",
-            "description": "b e n c h",
-            "date": "04/28/2021"
+            "imgPath": "newImg/album.jpg",
+            "imgLocation": "Kauai, Hawaii",
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/evan.jpeg",
-            "imgLocation": "Kauai, Hawaii",
-            "description": "Evan walking on the beach",
-            "date": "04/21/2022"
+            "imgPath": "newImg/bruh.jpg",
+            "imgLocation": "A restaurant",
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/heli1.jpeg",
-            "imgLocation": "Kauai, Hawaii",
-            "description": "Taken from a helicopter",
-            "date": "04/22/2022"
+            "imgPath": "newImg/closeUp.jpg",
+            "imgLocation": "Marlboro High School",
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/heli2.jpeg",
+            "imgPath": "newImg/dracula.jpg",
             "imgLocation": "Kauai, Hawaii",
-            "description": "Taken from a helicopter",
-            "date": "04/22/2022"
+            "description": "______",
+            "date": "________"
         },
     {
-            "imgPath": "newImg/heli3.jpeg",
+        "imgPath": "newImg/founder.jpg",
+        "imgLocation": "Washington D.C",
+        "description": "______",
+        "date": "________"
+        },
+        {
+            "imgPath": "newImg/halloween.jpg",
+            "imgLocation": "Marlboro Middle School",
+            "description": "______",
+            "date": "________"
+        },
+        {
+            "imgPath": "newImg/helicopter.jpg",
+            "imgLocation": "Somewhere above Kauai, Hawaii",
+            "description": "______",
+            "date": "________"
+        },
+        {
+            "imgPath": "newImg/holy.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
+        },
+        {
+            "imgPath": "newImg/lookBack.jpg",
             "imgLocation": "Kauai, Hawaii",
-            "description": "Taken from a helicopter",
-            "date": "04/22/2022"
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/maryland.jpeg",
-            "imgLocation": "Glen Burnie, Maryland",
-            "description": "This is the 1st image in the set",
-            "date": "07/03/2022"
+            "imgPath": "newImg/lunch.jpg",
+            "imgLocation": "Marlboro High School",
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/plane.jpeg",
-            "imgLocation": "Somewhere above the Pacific Ocean",
-            "description": "Plane ride back from Hawaii to New Jersey.",
-            "date": "04/22/2022"
+            "imgPath": "newImg/neutralFace.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/postcard.jpeg",
-            "imgLocation": "Honolulu, Hawaii",
-            "description": "This looks like a postcard but it is not",
-            "date": "04/17/2022"
+            "imgPath": "newImg/pigeonChest.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/stJohn.jpeg",
-            "imgLocation": "St. John, US Virgin Island",
-            "description": "Beach in St. John",
-            "date": "09/03/2022"
+            "imgPath": "newImg/plane.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
         },
         {
-            "imgPath": "newImg/washingtonMon.jpeg",
-            "imgLocation": "First image (index 0)",
-            "description": "Spiderman was here",
-            "date": "06/28/2022"
+            "imgPath": "newImg/rainbow.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
+        },
+    {
+        "imgPath": "newImg/runAway.jpg",
+        "imgLocation": "___________",
+        "description": "______",
+        "date": "________"
+        },
+        {
+            "imgPath": "newImg/sad.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
+        },
+        {
+            "imgPath": "newImg/scaredOfWater.png",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
+        },
+        {
+            "imgPath": "newImg/upsideDown.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
+        },
+        {
+            "imgPath": "newImg/zelda.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
+        },
+        {
+            "imgPath": "newImg/leg.jpg",
+            "imgLocation": "___________",
+            "description": "______",
+            "date": "________"
         }
   ]
 }
