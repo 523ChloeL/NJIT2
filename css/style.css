@@ -95,3 +95,13 @@ Make it animate nicely. You'll need CSS3 for this*/
 	transition: all 1s ease;
 	transform: rotate(270deg);
 }
+
+a{
+	color: red;
+	text-decoration: none;
+}
+
+a:visited{
+	color: gray;
+	
+}
