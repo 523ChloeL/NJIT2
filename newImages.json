@@ -3,122 +3,123 @@
         {
             "imgPath": "newImg/album.jpg",
             "imgLocation": "Kauai, Hawaii",
-            "description": "______",
-            "date": "________"
+            "description": "Music album vibes",
+            "date": "04/21/2022"
         },
         {
             "imgPath": "newImg/bruh.jpg",
             "imgLocation": "A restaurant",
-            "description": "______",
-            "date": "________"
+            "description": "b r u h",
+            "date": "09/23/2022"
         },
         {
             "imgPath": "newImg/closeUp.jpg",
-            "imgLocation": "Marlboro High School",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Honolulu, Hawaii",
+            "description": "*stares intensely*",
+            "date": "04/15/2022"
         },
         {
             "imgPath": "newImg/dracula.jpg",
             "imgLocation": "Kauai, Hawaii",
-            "description": "______",
-            "date": "________"
+            "description": "dracula boi",
+            "date": "04/21/2022"
         },
     {
         "imgPath": "newImg/founder.jpg",
         "imgLocation": "Washington D.C",
-        "description": "______",
-        "date": "________"
+        "description": "future CEO",
+        "date": "07/03/2022"
         },
         {
             "imgPath": "newImg/halloween.jpg",
             "imgLocation": "Marlboro Middle School",
-            "description": "______",
-            "date": "________"
+            "description": "Professor Evan",
+            "date": "09/29/2022"
         },
         {
             "imgPath": "newImg/helicopter.jpg",
             "imgLocation": "Somewhere above Kauai, Hawaii",
-            "description": "______",
-            "date": "________"
+            "description": "Aloha",
+            "date": "04/22/2022"
         },
         {
             "imgPath": "newImg/holy.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Let Evan think he is an angel",
+            "date": "04/20/2022"
         },
         {
             "imgPath": "newImg/lookBack.jpg",
             "imgLocation": "Kauai, Hawaii",
-            "description": "______",
-            "date": "________"
+            "description": "what did you say?",
+            "date": "04/19/2022"
         },
         {
             "imgPath": "newImg/lunch.jpg",
             "imgLocation": "Marlboro High School",
-            "description": "______",
-            "date": "________"
+            "description": ":O",
+            "date": "04/25/2022"
         },
         {
             "imgPath": "newImg/neutralFace.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Kauai, Hawaii",
+            "description": "o_o",
+            "date": "04/20/2022"
         },
         {
             "imgPath": "newImg/pigeonChest.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Kauai, Hawaii",
+            "description": "0.5x Zoom",
+            "date": "04/20/2022"
         },
         {
             "imgPath": "newImg/plane.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Somewhere over the Pacific Ocean",
+            "description": "hm?",
+            "date": "04/23/2022"
         },
         {
             "imgPath": "newImg/rainbow.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Honolulu, Hawaii",
+            "description": "Happy Evan",
+            "date": "04/16/2022"
         },
     {
         "imgPath": "newImg/runAway.jpg",
-        "imgLocation": "___________",
-        "description": "______",
-        "date": "________"
+        "imgLocation": "Kauai, Hawaii",
+        "description": "He's running away.",
+        "date": "04/19/2022"
         },
         {
             "imgPath": "newImg/sad.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Sad Evan",
+            "date": "04/21/2022"
         },
         {
             "imgPath": "newImg/scaredOfWater.png",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Ah water !!",
+            "date": "04/19/2022"
         },
         {
             "imgPath": "newImg/upsideDown.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "I do not remember",
+            "description": "Peek - A - Boo",
+            "date": "08/26/2022"
         },
         {
             "imgPath": "newImg/zelda.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Kauai, Hawaii",
+            "description": "Looks like a Legend of Zelda game",
+            "date": "4/20/2022"
         },
         {
             "imgPath": "newImg/leg.jpg",
-            "imgLocation": "___________",
-            "description": "______",
-            "date": "________"
+            "imgLocation": "Honolulu, Hawaii",
+            "description": "The Leg of Evan.",
+            "date": "04/19/2022"
         }
   ]
 }
+

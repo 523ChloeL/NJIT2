@@ -134,6 +134,10 @@ function makeGalleryImageOnloadCallback(galleryImage) {
 }
 
 $(document).ready( function() {
+	if (mUrl == null){
+		mUrl = 'images.json';
+	}
+
 	//next photo
 	$('#nextPhoto').click(function() {
    swapPhoto();
