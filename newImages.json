@@ -7,13 +7,13 @@
             "date": "04/21/2022"
         },
         {
-            "imgPath": "newImg/bruh.jpg",
+            "imgPath": "newImg/bruh.JPG",
             "imgLocation": "A restaurant",
             "description": "b r u h",
             "date": "09/23/2022"
         },
         {
-            "imgPath": "newImg/closeUp.jpg",
+            "imgPath": "newImg/closeUp.JPG",
             "imgLocation": "Honolulu, Hawaii",
             "description": "*stares intensely*",
             "date": "04/15/2022"
@@ -55,7 +55,7 @@
             "date": "04/19/2022"
         },
         {
-            "imgPath": "newImg/lunch.jpg",
+            "imgPath": "newImg/lunch.JPG",
             "imgLocation": "Marlboro High School",
             "description": ":O",
             "date": "04/25/2022"
@@ -97,13 +97,13 @@
             "date": "04/21/2022"
         },
         {
-            "imgPath": "newImg/scaredOfWater.png",
+            "imgPath": "newImg/scaredOfWater.PNG",
             "imgLocation": "Kauai, Hawaii",
             "description": "Ah water !!",
             "date": "04/19/2022"
         },
         {
-            "imgPath": "newImg/upsideDown.jpg",
+            "imgPath": "newImg/upsideDown.JPG",
             "imgLocation": "I do not remember",
             "description": "Peek - A - Boo",
             "date": "08/26/2022"
@@ -115,7 +115,7 @@
             "date": "4/20/2022"
         },
         {
-            "imgPath": "newImg/leg.jpg",
+            "imgPath": "newImg/leg.JPG",
             "imgLocation": "Honolulu, Hawaii",
             "description": "The Leg of Evan.",
             "date": "04/19/2022"
